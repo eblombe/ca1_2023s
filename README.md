@@ -19,11 +19,15 @@ humble
 
 ## >>>ros2 topic echo /turtle1/pose
 x: 5.544444561004639
+
 y: 5.544444561004639
-theta: 0.0
+
+theta: 0.0 
+
 linear_velocity: 0.0
+
 angular_velocity: 0.0
----
+
 *repeats
 
 ## >>>rqt_graph
@@ -53,3 +57,4 @@ average rate: 62.484
 average rate: 62.501
 	min: 0.015s max: 0.017s std dev: 0.00050s window: 253
 *repeats
+
